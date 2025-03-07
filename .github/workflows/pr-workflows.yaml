@@ -1,6 +1,10 @@
 name: "Run PR workflows"
 on:
   pull_request:
+  push:
+    branches:
+      - main
+      - path-1
 
 permissions:
   pull-requests: write
