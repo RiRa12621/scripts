@@ -1,0 +1,4 @@
+- cifs-utils ([CVE-2025-2312](https://nvd.nist.gov/vuln/detail/CVE-2025-2312))
+- crun ([CVE-2025-24965](https://nvd.nist.gov/vuln/detail/CVE-2025-24965))
+- libarchive ([CVE-2025-25724](https://nvd.nist.gov/vuln/detail/CVE-2025-25724))
+- socat ([socat-20250221](https://repo.or.cz/socat.git/blob/refs/tags/tag-1.8.0.3:/CHANGES#l4))
